@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Montreal on My New Hugo Site</title>
+    <link>https://braultg.github.io/tags/montreal/</link>
+    <description>Recent content in Montreal on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 17 Mar 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://braultg.github.io/tags/montreal/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Another post</title>
+      <link>https://braultg.github.io/post/2021-03-17-another-post/</link>
+      <pubDate>Wed, 17 Mar 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://braultg.github.io/post/2021-03-17-another-post/</guid>
+      <description>mtcars## mpg cyl disp hp drat wt qsec vs am gear carb## Mazda RX4 21.0 6 160.0 110 3.90 2.620 16.46 0 1 4 4## Mazda RX4 Wag 21.0 6 160.0 110 3.90 2.875 17.02 0 1 4 4## Datsun 710 22.8 4 108.0 93 3.85 2.320 18.61 1 1 4 1## Hornet 4 Drive 21.4 6 258.0 110 3.08 3.215 19.44 1 0 3 1## Hornet Sportabout 18.</description>
+    </item>
+    
+  </channel>
+</rss>
