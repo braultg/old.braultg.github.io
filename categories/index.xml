@@ -6,16 +6,7 @@
     <description>Recent content in Categories on My New Hugo Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 17 Mar 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://braultg.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Analysis</title>
-      <link>https://braultg.github.io/categories/analysis/</link>
-      <pubDate>Wed, 17 Mar 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://braultg.github.io/categories/analysis/</guid>
-      <description></description>
-    </item>
-    
+    <lastBuildDate>Tue, 01 Dec 2020 21:13:14 -0500</lastBuildDate><atom:link href="https://braultg.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>R</title>
       <link>https://braultg.github.io/categories/r/</link>

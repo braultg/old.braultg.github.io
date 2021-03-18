@@ -2,31 +2,19 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://braultg.github.io/categories/analysis/</loc>
-    <lastmod>2021-03-17T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://braultg.github.io/post/2021-03-17-another-post/</loc>
-    <lastmod>2021-03-17T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://braultg.github.io/categories/</loc>
-    <lastmod>2021-03-17T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://braultg.github.io/tags/montreal/</loc>
-    <lastmod>2021-03-17T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://braultg.github.io/</loc>
-    <lastmod>2021-03-17T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://braultg.github.io/post/</loc>
-    <lastmod>2021-03-17T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://braultg.github.io/tags/</loc>
-    <lastmod>2021-03-17T00:00:00+00:00</lastmod>
+    <lastmod>2020-12-01T21:13:14-05:00</lastmod>
   </url><url>
     <loc>https://braultg.github.io/post/2020-12-01-r-rmarkdown/</loc>
     <lastmod>2020-12-01T21:13:14-05:00</lastmod>
   </url><url>
+    <loc>https://braultg.github.io/</loc>
+    <lastmod>2020-12-01T21:13:14-05:00</lastmod>
+  </url><url>
     <loc>https://braultg.github.io/tags/plot/</loc>
+    <lastmod>2020-12-01T21:13:14-05:00</lastmod>
+  </url><url>
+    <loc>https://braultg.github.io/post/</loc>
     <lastmod>2020-12-01T21:13:14-05:00</lastmod>
   </url><url>
     <loc>https://braultg.github.io/categories/r/</loc>
@@ -36,6 +24,9 @@
     <lastmod>2020-12-01T21:13:14-05:00</lastmod>
   </url><url>
     <loc>https://braultg.github.io/tags/regression/</loc>
+    <lastmod>2020-12-01T21:13:14-05:00</lastmod>
+  </url><url>
+    <loc>https://braultg.github.io/tags/</loc>
     <lastmod>2020-12-01T21:13:14-05:00</lastmod>
   </url>
 </urlset>
